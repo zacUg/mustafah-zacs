@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zacUg
 - 👀 I’m interested in Back end Programming 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently persuing Python 
 - 💞️ I’m looking to collaborate on changing the world
 - 📫 How to reach me ... +256779679874
 
