@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mustafah zacs
 - 👀 I’m interested in Back end Programming 
-- 🌱 I’m currently persuing Python 
+- 🌱 I’m currently a Python programmer
 - 💞️ I’m looking to collaborate on changing the world
 - 📫 How to reach me ... +256779679874 and 0700675618
 
